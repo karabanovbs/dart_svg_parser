@@ -80,7 +80,7 @@ K? _$enumDecodeNullable<K, V>(
 
 const _$FillRuleTypeEnumMap = {
   FillRuleType.nonzero: 'nonzero',
-  FillRuleType.evenodd: 'evened',
+  FillRuleType.evenodd: 'evenodd',
   FillRuleType.inherit: 'inherit',
 };
 
